@@ -1,0 +1,18 @@
+{
+  "name": "questionapp",
+  "version": "1.0.0",
+  "description": "A simple API for three-letter questions and answer(s) of them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "question",
+    "answer",
+    "api",
+    "node",
+    "flutter"
+  ],
+  "author": "Mehmet Can Nokay",
+  "license": "ISC"
+}
